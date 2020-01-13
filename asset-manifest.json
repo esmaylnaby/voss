@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/voss/static/css/main.6371e238.chunk.css",
+    "main.js": "/voss/static/js/main.88e1b2a5.chunk.js",
+    "main.js.map": "/voss/static/js/main.88e1b2a5.chunk.js.map",
+    "runtime-main.js": "/voss/static/js/runtime-main.53cbfd59.js",
+    "runtime-main.js.map": "/voss/static/js/runtime-main.53cbfd59.js.map",
+    "static/js/2.18cbd4f2.chunk.js": "/voss/static/js/2.18cbd4f2.chunk.js",
+    "static/js/2.18cbd4f2.chunk.js.map": "/voss/static/js/2.18cbd4f2.chunk.js.map",
+    "index.html": "/voss/index.html",
+    "precache-manifest.fa824e2ec7128aa02d07c7681cfb091e.js": "/voss/precache-manifest.fa824e2ec7128aa02d07c7681cfb091e.js",
+    "service-worker.js": "/voss/service-worker.js",
+    "static/css/main.6371e238.chunk.css.map": "/voss/static/css/main.6371e238.chunk.css.map",
+    "static/js/2.18cbd4f2.chunk.js.LICENSE": "/voss/static/js/2.18cbd4f2.chunk.js.LICENSE",
+    "static/media/logo.png": "/voss/static/media/logo.12f98d8b.png",
+    "static/media/logo.svg": "/voss/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53cbfd59.js",
+    "static/js/2.18cbd4f2.chunk.js",
+    "static/css/main.6371e238.chunk.css",
+    "static/js/main.88e1b2a5.chunk.js"
+  ]
+}
